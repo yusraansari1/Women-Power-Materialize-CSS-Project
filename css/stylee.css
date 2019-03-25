@@ -1,0 +1,124 @@
+header{
+		background: url(women.png);
+		background-size: cover;
+        background-position: center;
+        min-width: 60%;
+        min-height: 850px;
+	}
+	@media screen and (max-width: 670px){
+		header{
+			min-height: 400px;
+		}
+	}
+	.ok{
+		font-size: 30px;
+	}
+	.continer{
+		padding-top: 40px;
+	}
+	.cont{
+		font-size: 34px;
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	.pur{
+		padding-top: 90px;
+	}
+	.olo{
+		font-size:20px;
+	}
+	.pol{
+		font-size: 25px;
+		font-weight: bold;
+	}
+	.pdd{
+		padding-right: 90px;
+		padding-left: 60px;
+		margin-right: 160px;
+		margin-left: 60px;
+	}
+	.yui{
+		font-size: 40px;
+	}
+	.jol{
+		margin-left: -38px;
+	}
+	.ger{
+		margin-left: 700px;
+	}
+	.abo_h{
+		margin-left: -280px;
+	}
+	.kohl{
+		padding-right: 120px;
+		padding-left: 120px;
+		/*margin-right: 60px;
+		margin-left: 60px;*/
+	}
+	.jol{
+		margin-left: -48px;
+	}
+	.ger{
+		margin-left: 200px;
+		align-content: right;
+		text-align: right;
+	}
+	.abo_h{
+		margin-left: -280px;
+	}
+	.kohl{
+		padding-right: 235px;
+		padding-left: 120px;
+		/*margin-right: 60px;
+		margin-left: 60px;*/
+	}
+	.lel{
+		margin-right: 320px;
+		margin-left: -80px;
+	}
+	.her {
+		margin-right: 160px;
+		margin-left: -30px;
+	}
+	.icon-bar {
+    position: fixed;
+    right: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    z-index: 9;
+}
+  .icon-bar a {
+    display: block;
+    text-align: center;
+    padding: 12px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 20px;
+  }
+  .icon-bar :hover {
+      transition: all 0.5s;
+      background-color: rgb(214, 52, 79) !important;
+  }
+  .thisdiv {
+    position: absolute !important; 
+    top: 5%;
+    right: 0;
+    left: 0;
+}
+.thisimg {
+    height: 550px !important;
+}
+.birdpara {
+    margin-bottom: 5%;
+}
+.birddiv {
+    margin: 8% 0;
+}
+.ok {
+	font-size: 20px;
+}
+.dig {
+	margin-right: 190px;
+}
